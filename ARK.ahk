@@ -1,4 +1,4 @@
-; Author Nr. 69
+; Author Nr. 1000101
 ; Under GNU General Public License v3.0
 ; Latest updates at https://github.com/Nr69/ARHKscript
 
